@@ -479,7 +479,7 @@ body {
 
 .newsletter-form__button {
   width: 50px;
-  background: url("../../img/icon/send_icon.png") center no-repeat;
+  background: url("../img/icon/send_icon.png") center no-repeat;
 }
 
 .newsletter-form__button:hover {
